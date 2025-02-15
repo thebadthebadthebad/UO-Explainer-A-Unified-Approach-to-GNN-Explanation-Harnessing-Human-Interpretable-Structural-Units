@@ -1,0 +1,143 @@
+----------------------------Explanation Result of basis learning(lr: 0.005, epoch: 3000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 72 (0.480)
+2 orbit: 58 (0.286)
+3 orbit: 10 (0.234)
+
+2'th class
+1 orbit: 57 (0.597)
+2 orbit: 11 (0.403)
+
+3'th class
+1 orbit: 56 (0.966)
+2 orbit: 34 (0.034)
+
+5'th class
+1 orbit: 58 (0.469)
+2 orbit: 26 (0.362)
+3 orbit: 69 (0.170)
+
+6'th class
+1 orbit: 57 (0.615)
+2 orbit: 11 (0.385)
+
+7'th class
+1 orbit: 56 (0.865)
+2 orbit: 30 (0.135)
+
+*****************************Instance-Level*****************************
+sparsity: 0.8621653227209976
+fiderity: 0.6585173502848866
+recall: 0.6953125
+sub_recall: 0.40625
+----------------------------Explanation Result of basis learning(lr: 0.005, epoch: 3000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 11 (0.504)
+2 orbit: 43 (0.409)
+3 orbit: 58 (0.087)
+
+2'th class
+1 orbit: 57 (0.614)
+2 orbit: 11 (0.386)
+
+3'th class
+1 orbit: 56 (0.947)
+2 orbit: 64 (0.053)
+
+5'th class
+1 orbit: 58 (0.525)
+2 orbit: 2 (0.249)
+3 orbit: 45 (0.225)
+
+6'th class
+1 orbit: 57 (0.623)
+2 orbit: 2 (0.377)
+
+7'th class
+1 orbit: 56 (0.979)
+2 orbit: 58 (0.021)
+
+*****************************Instance-Level*****************************
+sparsity: 0.8758574594211695
+fiderity: 0.7195391904847147
+recall: 0.66015625
+sub_recall: 0.328125
+----------------------------Explanation Result of basis learning(lr: 0.005, epoch: 3000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 58 (0.442)
+2 orbit: 23 (0.417)
+3 orbit: 25 (0.141)
+
+2'th class
+1 orbit: 57 (0.614)
+2 orbit: 72 (0.242)
+3 orbit: 2 (0.145)
+
+3'th class
+1 orbit: 56 (0.607)
+2 orbit: 15 (0.393)
+
+5'th class
+1 orbit: 58 (0.583)
+2 orbit: 26 (0.335)
+3 orbit: 45 (0.082)
+
+6'th class
+1 orbit: 57 (0.587)
+2 orbit: 11 (0.333)
+3 orbit: 71 (0.080)
+
+7'th class
+1 orbit: 56 (0.948)
+2 orbit: 72 (0.052)
+
+*****************************Instance-Level*****************************
+sparsity: 0.8635361022698664
+fiderity: 0.7050242319987537
+recall: 0.75
+sub_recall: 0.578125
+----------------------------Explanation Result of basis learning(lr: 0.005, epoch: 3000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 58 (0.493)
+2 orbit: 11 (0.369)
+3 orbit: 44 (0.138)
+
+2'th class
+1 orbit: 57 (0.500)
+2 orbit: 11 (0.291)
+3 orbit: 72 (0.209)
+
+3'th class
+1 orbit: 56 (0.986)
+2 orbit: 3 (0.014)
+
+5'th class
+1 orbit: 58 (0.444)
+2 orbit: 5 (0.320)
+3 orbit: 23 (0.235)
+
+6'th class
+1 orbit: 57 (0.802)
+2 orbit: 71 (0.198)
+
+7'th class
+1 orbit: 56 (0.870)
+2 orbit: 69 (0.130)
+
+*****************************Instance-Level*****************************
+sparsity: 0.8504828804656653
+fiderity: 0.6829103108779909
+recall: 0.8372395833333334
+sub_recall: 0.5625
