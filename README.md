@@ -10,15 +10,17 @@ To set up the environment, run:
 
 ```bash
 conda env create -f environment.yml
-conda activate kr
+conda activate UOExplainer
 ```
 
 ## 📊 Datasets
+Lastfm and gene datasets: Please refer to the paper's references for details.
 
-- **BAC (Barabási–Albert Community)**: Synthetic dataset based on Barabási–Albert model
-- **BA Shapes (bashapes)**: BA graph with embedded shapes
-- **Tree-Cycle (tree\_cycle)** & **Tree-Grid (tree\_grid)**: Synthetic graph datasets with structured topologies
-- **PPI (ppi0-ppi5)**: Protein-Protein Interaction datasets
+- **BAC (Barabási–Albert Community)**
+- **BA Shapes (bashapes)**
+- **Tree-Cycle (tree\_cycle)** & **Tree-Grid (tree\_grid)**
+- **PPI (ppi0-ppi5)**
+
 
 ## 🏃 Usage
 
@@ -34,9 +36,4 @@ For more options, check:
 ```bash
 python run.py --help
 ```
-
-## 📜 Citation
-
-If you use this code, please cite our IEEE TNNLS submission: 📄 **UO-Explainer: A Unified Approach to GNN Explanation Harnessing Human-Interpretable Structural Units**
-
 
