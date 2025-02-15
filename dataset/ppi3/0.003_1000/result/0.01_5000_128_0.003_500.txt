@@ -1,0 +1,67 @@
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 52 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9992250747163371
+fiderity: 0.6021265396204862
+recall: 0.0
+sub_recall: 0.0
+len_explain: 14.0
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 54 (0.572)
+2 orbit: 72 (0.428)
+
+*****************************Instance-Level*****************************
+sparsity: 0.999248230978591
+fiderity: 0.6034406244754791
+recall: 0.0
+sub_recall: 0.0
+len_explain: 13.6
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 52 (0.561)
+2 orbit: 70 (0.439)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9991747683785753
+fiderity: 0.424288809299469
+recall: 0.0
+sub_recall: 0.0
+len_explain: 14.909090909090908
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 71 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9990059564402085
+fiderity: 0.5267012789845467
+recall: 0.0
+sub_recall: 0.0
+len_explain: 18.0
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 71 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9990059564402085
+fiderity: 0.49266809970140457
+recall: 0.0
+sub_recall: 0.0
+len_explain: 18.0

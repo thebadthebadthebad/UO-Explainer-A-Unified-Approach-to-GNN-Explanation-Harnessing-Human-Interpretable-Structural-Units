@@ -1,0 +1,72 @@
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 69 (0.712)
+2 orbit: 72 (0.288)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9990913724969531
+fiderity: 0.40923703379101223
+recall: 0.0
+sub_recall: 0.0
+len_explain: 16.444444444444443
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 69 (0.684)
+2 orbit: 14 (0.214)
+3 orbit: 71 (0.102)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9991365514606034
+fiderity: 0.37417385578155515
+recall: 0.0
+sub_recall: 0.0
+len_explain: 15.6
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 72 (0.713)
+2 orbit: 69 (0.287)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9989199505844812
+fiderity: 0.4027590817875332
+recall: 0.0
+sub_recall: 0.0
+len_explain: 19.555555555555557
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 72 (0.727)
+2 orbit: 69 (0.273)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9989199505844812
+fiderity: 0.45571857028537327
+recall: 0.0
+sub_recall: 0.0
+len_explain: 19.555555555555557
+----------------------------Explanation Result of basis learning(lr: 0.01, epoch: 5000, batch: 128) and score learning(lr: 0.003, epoch: 500)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 72 (0.706)
+2 orbit: 69 (0.294)
+
+*****************************Instance-Level*****************************
+sparsity: 0.9989444432795348
+fiderity: 0.4213314784897698
+recall: 0.0
+sub_recall: 0.0
+len_explain: 19.11111111111111
+

@@ -1,0 +1,170 @@
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 11 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 11 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374277774776731
+recall: 1.0
+sub_recall: 1.0
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374278342440015
+recall: 1.0
+sub_recall: 1.0
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374277788968313
+recall: 1.0
+sub_recall: 1.0
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374278065704164
+recall: 1.0
+sub_recall: 1.0
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374278115374702
+recall: 1.0
+sub_recall: 1.0
+----------------------------Explanation Result of basis learning(lr: 0.001, epoch: 3000, batch: 128) and score learning(lr: 0.005, epoch: 300)----------------------------
+
+Model-Level
+
+1'th class
+1 orbit: 76 (1.000)
+
+*****************************Instance-Level*****************************
+sparsity: 0.33272711765358826
+fiderity: 0.7374278030225209
+recall: 1.0
+sub_recall: 1.0
